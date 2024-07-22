@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Frida-Leycegui
+- 👀 I’m interested in molecular biology, bioinformatics, and Alzheimer's disease. 
+- 🌱 I’m currently studying a masters degree in Neuroscience.
